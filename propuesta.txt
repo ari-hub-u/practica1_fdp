@@ -1,0 +1,1 @@
+La IA en ingenieria eléctrica electrónica nos puede ayudar a analizar bases de datos, detectar riesgos haciendo simulaciones que se utilizan para predecir fallas, por ejemplo, en transportadores y motores antes de que ocurran lo que reduce costos y evitar apagones, proponer soluciones más eficientes en el diseño
